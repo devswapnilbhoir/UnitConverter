@@ -1,0 +1,35 @@
+{
+    "name": "converter",
+    "title": "jQuery converter",
+    "description": "It is all type of OFFLINE units converter which available on google online, so guys try this. Its very useful for your work.",
+    "keywords": [
+      "jquery-plugins",
+      "converter",
+      "unit-converter",
+      "unit"
+    ],
+    "version": "1.0.1",
+    "author": {
+      "name": "Swapnil Bhoir",
+      "url": "https://github.com/zenorocha"
+    },
+    "maintainers": [
+      {
+        "name": "Swapnil Bhoir",
+        "url": "https://github.com/devswapnilbhoir"
+      }
+    ],
+    "licenses": [
+      {
+        "type": "MIT",
+        "url": "http://www.opensource.org/licenses/mit-license.php"
+      }
+    ],
+    "bugs": "https://github.com/devswapnilbhoir/jquery-converter/issues",
+    "docs": "https://github.com/jquery-boilerplate/boilerplate#readme",
+    "download": "https://github.com/jquery-boilerplate/boilerplate/archive/master.zip",
+    "dependencies": {
+      "jquery": ">=1.4"
+    }
+  }
+  

@@ -1,0 +1,34 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Test Plugin</title>        
+        <script src="js/bootstrap.js"></script>
+        <script src="js/jquery-3.3.1.js"></script>        
+        <script src="js/jquery-converter-plugin.js"></script>
+        <script>
+            $(document).ready(function() {
+                var editor = $("#MainDiv").hello({
+                    Test : "Test"
+                }) ;
+                //$("#demo").hello();                
+			});
+        </script>                
+        <link href="css/bootstrap.css" type="text/css" rel="stylesheet"/>
+        <link href="css/all.css" type="text/css" rel="stylesheet"/>
+        <link href="css/demoStyle.css" type="text/css" rel="stylesheet"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>    
+        <div id="MainDiv" class="container-fluid">
+            <div id="MainHeading">
+                <button class="btn HeadingButtons" id="refreshBtn">
+                    <i class="fa fa-refresh"></i>
+                </button>
+            </div>
+            <div id="MainPanel">
+
+            </div>
+        </div>
+    </body>
+</html>
