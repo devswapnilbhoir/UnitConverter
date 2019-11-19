@@ -1,0 +1,41 @@
+#MainDiv {
+    width: 800px;  
+    height: 400px;
+    background-color: bisque;
+    margin: 0px auto;
+    margin-top: 10%;
+    padding-top: 1px;
+}
+
+#MainHeading{
+    width: auto;
+    height: 50px;
+    margin: 1%;
+    background-color: white;
+    padding-top: 6px;
+}
+
+#MainPanel{
+    width: auto;
+    height: 80%;
+    margin: 1%;
+    background-color: white;    
+    padding-bottom: 10px;;
+}
+
+
+.HeadingButtons{
+    margin-left: 5px;
+}
+
+#converterBody{
+    padding-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.form-control{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
